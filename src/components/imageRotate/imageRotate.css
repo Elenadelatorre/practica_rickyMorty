@@ -1,0 +1,7 @@
+img {
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+.rotated {
+  transform: rotate(180deg);
+}
